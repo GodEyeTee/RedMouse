@@ -26,6 +26,57 @@ MouseRed provides smooth, controlled downward mouse movement while holding the l
   - Enhanced timer resolution
   - Optimized thread priority
   - Minimal movement jitter
+    **`MouseRed.exe`**
 
 ## ⌨️ Hotkey Controls
-  
+| Key | Function |
+|------|----------|
+|  `F1` | <span class="red-text">Toggle movement on/off</span> |
+|  `F2-F9` | <span class="red-text">Quick sensitivity presets</span> |
+|  `Numpad +`  | <span class="red-text">Increase sensitivity</span> |
+|  `Numpad -`  | <span class="red-text">Decrease sensitivity</span> |
+|  `ESC`  | <span class="red-text">Exit application</span> |
+
+## 🚀 Getting Started
+### Prerequisites
+* Windows operating system
+* Visual Studio or compatible C++ compiler
+### Installation
+1. Download the latest release from the Releases page
+2. Extract the files to your preferred location
+3. Run `MouseRed.exe`
+
+## Building from Source
+```
+# Clone the repository
+git clone https://github.com/yourusername/MouseRed.git
+
+# Navigate to project directory
+cd MouseRed
+
+# Build using Visual Studio
+msbuild MouseRed.sln /p:Configuration=Release
+```
+
+## 🖥️ Technical Details
+The application features:
+* ANSI-enhanced console output
+* Color-coded status display
+* Real-time sensitivity feedback
+* Optimized performance through Windows API
+## 🤝 Contributing
+We welcome contributions! Here's how you can help:
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📫 Support
+* Create an Issue for bug reports
+* Start a Discussion for questions
+* Submit a Pull Request for improvements
+## Made with ❤️ by GodEyeTee
