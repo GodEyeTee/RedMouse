@@ -79,4 +79,5 @@ This project is licensed under the MIT License - see the <a href="https://openso
 * Create an Issue for bug reports
 * Start a Discussion for questions
 * Submit a Pull Request for improvements
-## Made with ❤️ by GodEyeTee
+
+Made with ❤️ by <a href="https://github.com/GodEyeTee">GodEyeTee</a>
