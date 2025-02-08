@@ -1,5 +1,5 @@
 <h1 align="center">
-  MouseRed 🖱️
+  RedMouse 🖱️
   <br>
 </h1>
 <h4 align="center">A Windows application for precise mouse control, featuring continuous downward movement with real-time adjustable sensitivity.</h4>
@@ -7,7 +7,7 @@
 
 ## 📋 Overview
 
-MouseRed provides smooth, controlled downward mouse movement while holding the left button. Perfect for tasks requiring precise vertical scrolling or controlled mouse movement.
+RedMouse provides smooth, controlled downward mouse movement while holding the left button. Perfect for tasks requiring precise vertical scrolling or controlled mouse movement.
 
 ## ✨ Key Features
 
