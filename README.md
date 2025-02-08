@@ -1,7 +1,10 @@
 <h1 align="center">
-  RedMouse 🖱️
   <br>
+<img src="https://raw.githubusercontent.com/GodEyeTee/RedMouse/refs/heads/main/MouseRed2.webp" alt="Markdownify" width="200">
+  <br>
+RedMouse
 </h1>
+<br>
 <h4 align="center">A Windows application for precise mouse control, featuring continuous downward movement with real-time adjustable sensitivity.</h4>
 
 
