@@ -4,8 +4,24 @@
   <br>
 RedMouse
 </h1>
-<br>
 <h4 align="center">A Windows application for precise mouse control, featuring continuous downward movement with real-time adjustable sensitivity.</h4>
+<br>
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-red.svg"
+         alt="License">
+  </a>
+  <a href="https://t.me/+fjzcWuvxR9pmYTM1">
+    <img src="https://img.shields.io/badge/Telegram-blue.svg"
+         alt="Telegram">
+</a>
+  <a href="https://saythanks.io/to/GodEyeTee">
+      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+  </a>
+  <a href="https://www.paypal.me/">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
 
 
 ## 📋 Overview
@@ -76,7 +92,7 @@ We welcome contributions! Here's how you can help:
 5. Open a Pull Request
 
 ## 📝 License
-This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.
 
 ## 📫 Support
 * Create an Issue for bug reports
