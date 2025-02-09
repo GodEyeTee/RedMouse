@@ -23,7 +23,7 @@ RedMouse
          alt="Say Thanks" style="height: 20px;">
   </a>
   
-  <a href="https://www.buymeacoffee.com/godeyetee" style="text-decoration: none;">
+  <a href="buymeacoffee.com/godeyetee" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20pizza-🍕-FF5F5F?style=flat&amp;labelColor=000000"
          alt="Buy me a pizza" style="height: 20px;">
   </a>
