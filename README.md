@@ -6,21 +6,26 @@ RedMouse
 </h1>
 <h4 align="center">A Windows application for precise mouse control, featuring continuous downward movement with real-time adjustable sensitivity.</h4>
 <br>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg"
-         alt="License">
+         alt="License" style="height: 20px;">
   </a>
-  <a href="https://t.me/+fjzcWuvxR9pmYTM1">
+  
+  <a href="https://t.me/+fjzcWuvxR9pmYTM1" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-blue.svg"
-         alt="Telegram">
-</a>
-  <a href="https://saythanks.io/to/GodEyeTee">
-      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+         alt="Telegram" style="height: 20px;">
   </a>
-  <a href="https://www.paypal.me/">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  
+  <a href="https://saythanks.io/to/GodEyeTee" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" 
+         alt="Say Thanks" style="height: 20px;">
+  </a>
+  
+  <a href="https://www.buymeacoffee.com/godeyetee" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20pizza-🍕-FF5F5F?style=flat&amp;labelColor=000000"
+         alt="Buy me a pizza" style="height: 20px;">
   </a>
 </p>
 
