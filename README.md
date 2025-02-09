@@ -7,8 +7,9 @@ RedMouse
 <h4 align="center">A Windows application for precise mouse control, featuring continuous downward movement with real-time adjustable sensitivity.</h4>
 <br>
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-red.svg"
+  
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg"
          alt="License">
   </a>
   <a href="https://t.me/+fjzcWuvxR9pmYTM1">
@@ -22,7 +23,6 @@ RedMouse
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
-
 
 ## 📋 Overview
 
@@ -93,7 +93,7 @@ We welcome contributions! Here's how you can help:
 5. Open a Pull Request
 
 ## 📝 License
-This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License - see the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">LICENSE</a> file for details.
 
 ## 📫 Support
 * Create an Issue for bug reports
