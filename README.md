@@ -23,7 +23,7 @@ RedMouse
          alt="Say Thanks" style="height: 20px;">
   </a>
   
-  <a href="buymeacoffee.com/godeyetee" style="text-decoration: none;">
+  <a href="https://www.buymeacoffee.com/godeyetee" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20pizza-🍕-FF5F5F?style=flat&amp;labelColor=000000"
          alt="Buy me a pizza" style="height: 20px;">
   </a>
@@ -57,7 +57,7 @@ RedMouse provides smooth, controlled downward mouse movement while holding the l
 |------|----------|
 |  `F1` | <span class="red-text">Toggle movement on/off</span> |
 |  `F2-F9` | <span class="red-text">Quick sensitivity presets</span> |
-|  `F10`🆕 | <span class="red-text">Toggle Curve Pattern Mode on/off</span> |
+|  `F10`🆕 | <span class="red-text">Toggle Curve Pattern Mode on/off</span>  v1.25.02.2 or higher |
 |  `Numpad +`  | <span class="red-text">Increase sensitivity</span> |
 |  `Numpad -`  | <span class="red-text">Decrease sensitivity</span> |
 |  `ESC`  | <span class="red-text">Exit application</span> |
