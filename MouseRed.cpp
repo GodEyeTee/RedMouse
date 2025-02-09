@@ -179,7 +179,7 @@ public:
 };
 
 int main() {
-    SetConsoleTitle(L"Mouse Movement Controller");
+    SetConsoleTitleW(L"Mouse Movement Controller");
     MouseController controller;
     controller.run();
     return 0;
