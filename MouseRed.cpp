@@ -115,13 +115,13 @@ private:
             }
             // กำหนด sensitivity (0-1) ผ่าน F2-F9
             if (GetAsyncKeyState(VK_F2) & 1) setSensitivity(0.8571);
-            if (GetAsyncKeyState(VK_F3) & 1) setSensitivity(1.4065);
+            if (GetAsyncKeyState(VK_F3) & 1) setSensitivity(1.408);
             if (GetAsyncKeyState(VK_F4) & 1) setSensitivity(1.15);
-            if (GetAsyncKeyState(VK_F5) & 1) setSensitivity(8.2);
-            if (GetAsyncKeyState(VK_F6) & 1) setSensitivity(8);
-            if (GetAsyncKeyState(VK_F7) & 1) setSensitivity(9.095);
-            if (GetAsyncKeyState(VK_F8) & 1) setSensitivity(1.36);
-            if (GetAsyncKeyState(VK_F9) & 1) setSensitivity(8.605);
+            if (GetAsyncKeyState(VK_F5) & 1) setSensitivity(1.89965);
+            if (GetAsyncKeyState(VK_F6) & 1) setSensitivity(1.72225);
+            if (GetAsyncKeyState(VK_F7) & 1) setSensitivity(12.89035);
+            if (GetAsyncKeyState(VK_F8) & 1) setSensitivity(1.35955);
+            if (GetAsyncKeyState(VK_F9) & 1) setSensitivity(2.29865);
             // F10: สลับเปิด/ปิด Curve Pattern พร้อมแสดงสถานะ
             if (GetAsyncKeyState(VK_F10) & 1) {
                 useCurvePattern = !useCurvePattern;
@@ -179,7 +179,7 @@ public:
 };
 
 int main() {
-    SetConsoleTitleW(L"Mouse Movement Controller");
+    SetConsoleTitle(L"Mouse Movement Controller");
     MouseController controller;
     controller.run();
     return 0;
