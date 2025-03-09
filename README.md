@@ -57,10 +57,11 @@ RedMouse provides smooth, controlled downward mouse movement while holding the l
 |------|----------|
 |  `F1` | <span class="red-text">Toggle movement on/off</span> |
 |  `F2-F9` | <span class="red-text">Quick sensitivity presets</span> |
-|  `F10`🆕 | <span class="red-text">Toggle Curve Pattern Mode on/off</span>  v1.25.02.2 or higher |
+|  `F10` | <span class="red-text">Toggle Curve Pattern Mode on/off</span>  v1.25.02.2 or higher |
 |  `Numpad +`  | <span class="red-text">Increase sensitivity</span> |
 |  `Numpad -`  | <span class="red-text">Decrease sensitivity</span> |
 |  `ESC`  | <span class="red-text">Exit application</span> |
+|  `GUI`🆕  | <span class="red-text">GUI application</span> v2.25.03.1 or higher|
 
 ## 🚀 Getting Started
 ### Prerequisites
